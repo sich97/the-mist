@@ -1,0 +1,7 @@
+name: TheMist
+version: '1.0'
+description: Brings Herobrine to life
+author: Simon Christiansen
+main: no.chri.themist.Themist
+api-version: '1.15'
+load: POSTWORLD
